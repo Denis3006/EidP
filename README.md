@@ -1,1 +1,1 @@
-Programs, that were written by me in first semester (2017/2018) of Electrical Engineering and Computer Science bachelor at TU Dortmund.
+Aufgaben, die im Laufe des Moduls "Einführung in die Programmierung (EidP) 17/18" an der TU Dortmund gelöst wurden. 
