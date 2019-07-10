@@ -1,1 +1,2 @@
 Aufgaben, die im Laufe des Moduls "Einführung in die Programmierung (EidP) 17/18" an der TU Dortmund gelöst wurden. 
+Dass Ziel des Courses war, die Grundlagen der Programmierspache C++ zu kennenlernen. Das war meine erste Erfahrung mit Programmierung, deswegen ist der Code meistens nicht optimal geschrieben. Ich möchte aber die Originaldateien für mich beibehalten. Alle Aufgaben wurden jedoch mit voller Punktezahl benotet, deswegen können diese beim Einstieg für Anfänger im C++ hilfreich sein.
