@@ -1,6 +1,5 @@
 #include <iostream>
 #include <cstring>
-#include <Windows.h>  // 08.07.2019
 
 using namespace std;
 
@@ -65,6 +64,5 @@ int main() {
 	else
 		cout << "KEIN Palindrom.";
 
-	Sleep(5000);  // 08.07.2019
 	return 0;
 }
